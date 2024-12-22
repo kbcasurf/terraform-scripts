@@ -1,2 +1,2 @@
-# Repo for testing scripts
-Created for advanced Terraform features testing
+# Repo for Terraform scripts
+Created for advanced Terraform useful features.
